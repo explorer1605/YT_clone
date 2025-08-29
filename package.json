@@ -1,0 +1,27 @@
+{
+  "name": "yt-clone",
+  "version": "1.0.0",
+  "description": "this project is built for learning backend developement.I am building a functional youtube clone> Hope you would stay tuned",
+  "keywords": [
+    "backend",
+    "youtube",
+    "clone",
+    "project",
+    "YT"
+  ],
+  "homepage": "https://github.com/explorer1605/chai_aur_code#readme",
+  "bugs": {
+    "url": "https://github.com/explorer1605/chai_aur_code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/explorer1605/chai_aur_code.git"
+  },
+  "license": "ISC",
+  "author": "Harsh Rathi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
